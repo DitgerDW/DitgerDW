@@ -3,6 +3,7 @@
 [<img align="left" alt="Twitter" src="https://img.shields.io/twitter/follow/ditgerdw?logo=Twitter&style=for-the-badge"/>][twitter]
 
 <br />
+<br />
 
 ## I'm a front-end developer
 - 🔭 I'm currently working on my very first Udemy Course!
@@ -29,9 +30,11 @@
 <img align="left" alt="DitgerDW" width="22px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
 <img align="left" alt="DitgerDW" width="22px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/swift/swift.png" />
 
+<br />
 ---
 <details>
     <summary>⚡️Github Statistics</summary>
+    <br />
     <img align="left" alt="DitgerDW's Github Stats" src="https://github-readme-stats.ditgerdw.vercel.app/api?username=ditgerdw&show_icons=true&hide_border=true" />
 </details>
 
