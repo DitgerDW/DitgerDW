@@ -31,12 +31,6 @@
 
 ---
 <details>
-    <summary>⚡️Latest Github Activity</summary>
-    <!--START_SECTION:activity-->
-    <!--END_SECTION:activity-->
-</details>
-
-<details>
     <summary>⚡️Github Statistics</summary>
     <img align="left" alt="DitgerDW's Github Stats" src="https://github-readme-stats.ditgerdw.vercel.app/api?username=ditgerdw&show_icons=true&hide_border=true" />
 </details>
