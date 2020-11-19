@@ -3,10 +3,9 @@
 [<img align="left" alt="Twitter" src="https://img.shields.io/twitter/follow/ditgerdw?logo=Twitter&style=for-the-badge"/>][twitter]
 
 <br />
+<br />
 
 ---
-
-<br />
 
 ## I'm a front-end developer
 - 🔭 I'm currently working on my very first Udemy Course!
