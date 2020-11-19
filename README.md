@@ -1,6 +1,6 @@
 ### Hi there, I'm [DitgerDW][website]
-<img align="left" alt="DitgerDW's Twitter" src="https://img.shields.io/twitter/follow/ditgerdw?logo=Twitter&style=for-the-badge"/>
-<img align="left" alt="DitgerDW's Twitter" src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fditgerdewolf.be"/>
+[<img align="left" alt="ditgerdewolf.be" src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fditgerdewolf.be"/>][website]
+[<img align="left" alt="Twitter" src="https://img.shields.io/twitter/follow/ditgerdw?logo=Twitter&style=for-the-badge"/>][twitter]
 
 <br />
 
