@@ -2,8 +2,7 @@
 [<img align="left" alt="ditgerdewolf.be" src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fditgerdewolf.be"/>][website]
 [<img align="left" alt="Twitter" src="https://img.shields.io/twitter/follow/ditgerdw?logo=Twitter&style=for-the-badge"/>][twitter]
 
-<br />
-<br />
+---
 
 ## I'm a front-end developer
 - 🔭 I'm currently working on my very first Udemy Course!
@@ -36,7 +35,6 @@
 
 <details>
     <summary>⚡️Github Statistics</summary>
-    <br />
     <img align="left" alt="DitgerDW's Github Stats" src="https://github-readme-stats.ditgerdw.vercel.app/api?username=ditgerdw&show_icons=true&hide_border=true" />
 </details>
 
